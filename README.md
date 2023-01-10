@@ -118,7 +118,10 @@ ResNet50 신경망을 사용하고 완전연결층을 직접 추가해 로컬데
 ---------------------------------------------------------------------
 ### :bulb: 최종 결과
 
--모델 파일 이름:
+-모델 파일 이름: 
+- model_600_dropout_last ==>epoch=600 , dropout 설정된 최종 모델
+- model_150_dropout_last ==>epoch=150 , dropout 설정된 최종 모델
+
 
 ![47af2254e7b22686fa36668e35342adcd7aaa0bd_re_1673242484456](https://user-images.githubusercontent.com/105347300/211263184-95fd1564-e931-4047-8864-3f435b17272d.png)
 - epochs =  600
